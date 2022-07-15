@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#_#",
+        "#C#",
+        "#_#"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:planks"
+        },
+        "_": {
+            "tag": "minecraft:wooden_slabs"
+        },
+        "C": {
+            "item": "minecraft:chest"
+        }
+    },
+    "result": {
+        "item": "minecraft:barrel",
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    "X#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": [
+      {
+        "item": "minecraft:flint"
+      },
+      {
+        "item": "minecraft:cobblestone"
+      }
+    ]
+  },
+  "result": {
+    "item": "minecraft:stone_axe"
+  }
+}
