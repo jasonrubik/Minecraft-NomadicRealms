@@ -146,6 +146,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 5,
           "name": "minecraft:saddle"
         },
         {

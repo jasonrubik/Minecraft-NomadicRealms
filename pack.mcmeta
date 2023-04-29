@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 8,
-        "description": "Nomadic Realms Datapack - Makes the early game harder, and encourages exploration. Version 14"
+        "pack_format": 12,
+        "description": "Nomadic Realms Datapack - Makes the early game harder, and encourages exploration. Version 16"
     }
 }
