@@ -7,7 +7,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 1
     },
     {
       "element": {
@@ -25,7 +25,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 1
     },
     {
       "element": {
@@ -43,7 +43,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 1
     },
     {
       "element": {
@@ -61,7 +61,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 1
     },
     {
       "element": {
@@ -79,7 +79,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 1
     },
     {
       "element": {
@@ -97,7 +97,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 1
     },
     {
       "element": {
@@ -106,7 +106,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 3
+      "weight": 2
     },
     {
       "element": {
@@ -124,7 +124,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 3
+      "weight": 4
     },
     {
       "element": {
@@ -144,7 +144,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 3
+      "weight": 4
     },
     {
       "element": {
@@ -153,7 +153,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 3
+      "weight": 4
     },
     {
       "element": {
@@ -162,7 +162,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 3
     },
     {
       "element": {
@@ -180,7 +180,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 3
     },
     {
       "element": {
@@ -189,7 +189,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 5
+      "weight": 6
     },
     {
       "element": {
@@ -198,7 +198,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 4
     },
     {
       "element": {
@@ -216,7 +216,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 4
+      "weight": 5
     },
     {
       "element": {
@@ -225,7 +225,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 3
+      "weight": 4
     },
     {
       "element": {
@@ -243,7 +243,7 @@
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 3
     },
     {
       "element": {
@@ -263,7 +263,7 @@
         "processors": "minecraft:farm_plains",
         "projection": "rigid"
       },
-      "weight": 4
+      "weight": 3
     },
     {
       "element": {
@@ -305,7 +305,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 5
+      "weight": 3
     },
     {
       "element": {
@@ -325,7 +325,7 @@
         "processors": "minecraft:mossify_70_percent",
         "projection": "rigid"
       },
-      "weight": 3
+      "weight": 2
     },
     {
       "element": {
@@ -342,7 +342,7 @@
       "element": {
         "element_type": "minecraft:empty_pool_element"
       },
-      "weight": 5
+      "weight": 1
     }
   ],
   "fallback": "minecraft:village/plains/terminators"

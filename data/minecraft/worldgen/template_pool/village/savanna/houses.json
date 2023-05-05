@@ -9,7 +9,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 1
     },
     {
       "element": {
@@ -31,7 +31,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 1
     },
     {
       "element": {
@@ -42,7 +42,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 1
     },
     {
       "element": {
@@ -64,7 +64,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 1
     },
     {
       "element": {
@@ -75,7 +75,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 1
     },
     {
       "element": {
@@ -86,7 +86,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 1
+      "weight": 2
     },
     {
       "element": {
@@ -97,7 +97,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 1
     },
     {
       "element": {
@@ -141,7 +141,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 4
+      "weight": 5
     },
     {
       "element": {
@@ -163,7 +163,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 7
+      "weight": 5
     },
     {
       "element": {
@@ -174,7 +174,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 3
+      "weight": 5
     },
     {
       "element": {
@@ -207,7 +207,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 3
+      "weight": 5
     },
     {
       "element": {
@@ -218,7 +218,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 3
+      "weight": 5
     },
     {
       "element": {
@@ -240,7 +240,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 3
+      "weight": 4
     },
     {
       "element": {
@@ -251,7 +251,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 3
     },
     {
       "element": {
@@ -262,7 +262,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 2
+      "weight": 4
     },
     {
       "element": {
@@ -282,7 +282,7 @@
         "processors": "minecraft:farm_savanna",
         "projection": "rigid"
       },
-      "weight": 4
+      "weight": 3
     },
     {
       "element": {
@@ -291,7 +291,7 @@
         "processors": "minecraft:farm_savanna",
         "projection": "rigid"
       },
-      "weight": 6
+      "weight": 3
     },
     {
       "element": {
@@ -300,7 +300,7 @@
         "processors": "minecraft:farm_savanna",
         "projection": "rigid"
       },
-      "weight": 4
+      "weight": 3
     },
     {
       "element": {
@@ -322,7 +322,7 @@
         },
         "projection": "rigid"
       },
-      "weight": 3
+      "weight": 2
     },
     {
       "element": {
@@ -339,7 +339,7 @@
       "element": {
         "element_type": "minecraft:empty_pool_element"
       },
-      "weight": 3
+      "weight": 1
     }
   ],
   "fallback": "minecraft:village/savanna/terminators"
