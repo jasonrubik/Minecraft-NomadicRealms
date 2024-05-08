@@ -1,5 +1,6 @@
 {
-    "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
     "pattern": [
         "#_#",
         "#C#",
@@ -16,8 +17,8 @@
             "item": "minecraft:chest"
         }
     },
-    "result": {
-        "item": "minecraft:barrel",
-        "count": 1
-    }
+  "result": {
+    "id": "minecraft:barrel",
+    "count": 1
+  }
 }

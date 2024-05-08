@@ -9,17 +9,21 @@
           "name": "minecraft:crimson_planks"
         }
       ],
-	  "conditions": [
-		{
-		  "condition": "minecraft:match_tool",
-		  "predicate": {
-			"durability": {
-			  "min": 1,
-			  "max": 9999
-			}
-		  }
-		}
-	  ]
+      "conditions": [
+        {
+          "condition": "minecraft:match_tool",
+          "predicate": {
+            "predicates": {
+              "minecraft:damage": {
+                "durability": {
+                  "min": 1,
+                  "max": 9999
+                }
+              }
+            }
+          }
+        }
+      ]
     }
   ]
 }

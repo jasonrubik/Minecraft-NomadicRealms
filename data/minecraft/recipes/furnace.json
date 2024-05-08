@@ -1,20 +1,21 @@
-﻿{
-    "type": "crafting_shaped",
-    "pattern": [
-        "###",
-        "#D#",
-        "###"
-    ],
-    "key": {
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#D#",
+    "###"
+  ],
+  "key": {
         "#": {
             "item": "minecraft:cobblestone"
         },
         "D": {
             "item": "minecraft:diamond_block"
         }
-    },
-    "result": {
-        "item": "minecraft:furnace",
-        "count": 1
-    }
+},
+  "result": {
+    "id": "minecraft:furnace",
+    "count": 1
+  }
 }

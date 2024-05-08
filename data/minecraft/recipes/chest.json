@@ -1,17 +1,18 @@
-﻿{
-    "type": "crafting_shaped",
-    "pattern": [
-        "# #",
-        "   ",
-        "# #"
-    ],
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
     "key": {
         "#": {
             "item": "minecraft:diamond_block"
         }
     },
-    "result": {
-        "item": "minecraft:chest",
-        "count": 1
-    }
+  "pattern": [
+        "# #",
+        "   ",
+        "# #"
+    ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:chest"
+  }
 }

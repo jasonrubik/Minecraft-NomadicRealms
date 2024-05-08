@@ -1,9 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "XX",
-    "X#"
-  ],
+  "category": "equipment",
   "key": {
     "#": {
       "item": "minecraft:stick"
@@ -17,7 +14,12 @@
       }
     ]
   },
+  "pattern": [
+    "XX",
+    "X#"
+  ],
   "result": {
-    "item": "minecraft:stone_axe"
+    "count": 1,
+    "id": "minecraft:stone_axe"
   }
 }
