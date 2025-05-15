@@ -1,1 +1,0 @@
-execute as @a[scores={RespawnDeath=1..}] at @s run function dynamicrespawn:died
