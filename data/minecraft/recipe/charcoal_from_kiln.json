@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "#minecraft:logs_that_burn",
+    "I": [
+      "minecraft:mud",
+      "minecraft:clay"
+    ],
+    "X": "minecraft:flint"
+  },
+  "pattern": [
+    "III",
+    "IXI",
+    "###"
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:charcoal"
+  },
+  "show_notification": true
+}
