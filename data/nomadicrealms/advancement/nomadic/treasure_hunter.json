@@ -1,0 +1,26 @@
+{
+  "parent": "nomadicrealms:nomadic/hoarders_delight",
+  "display": {
+    "icon": {
+      "id": "minecraft:filled_map"
+    },
+    "title": "Treasure Hunter",
+    "description": "Yarrr, there be loot ahead, matey.",
+    "announce_to_chat": false,
+    "show_toast": true
+  },
+  "criteria": {
+    "found_treasure_map": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:filled_map"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
