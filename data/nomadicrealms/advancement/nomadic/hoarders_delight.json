@@ -1,4 +1,5 @@
 {
+  "parent": "nomadicrealms:nomadic/first_punch",
   "display": {
     "icon": {
       "id": "minecraft:chest"

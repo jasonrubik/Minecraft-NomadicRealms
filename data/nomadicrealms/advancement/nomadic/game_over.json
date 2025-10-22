@@ -6,7 +6,7 @@
     },
     "title": "Game Over",
     "description": "Infinite chests for infinite storage. Bye bye nomad :(",
-    "frame": "goal",
+    "frame": "challenge",
     "announce_to_chat": false,
     "show_toast": true,
     "hidden": true
