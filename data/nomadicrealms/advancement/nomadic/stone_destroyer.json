@@ -1,22 +1,22 @@
 {
-  "parent": "nomadicrealms:nomadic/first_punch",
+  "parent": "nomadicrealms:nomadic/flint_axe",
   "display": {
     "icon": {
-      "id": "minecraft:stone_axe"
+      "id": "minecraft:wooden_pickaxe"
     },
-    "title": "Primitive Ingenuity",
-    "description": "You crafted your first flint axe!",
+    "title": "Futile Endeavor",
+    "description": "A tool that is great for destroying stone.",
     "announce_to_chat": false,
     "show_toast": true
   },
   "criteria": {
-    "crafted_flint_axe": {
+    "crafted_wooden_pickaxe": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": [
-              "minecraft:stone_axe"
+              "minecraft:wooden_pickaxe"
             ]
           }
         ]

@@ -1,0 +1,24 @@
+{
+  "parent": "nomadicrealms:nomadic/iron_looter",
+  "display": {
+    "icon": {
+      "id": "minecraft:cobblestone"
+    },
+    "title": "Got Cobble?",
+    "description": "You finally managed to collect some stones.",
+    "announce_to_chat": false,
+    "show_toast": true
+  },
+  "criteria": {
+    "mine_cobble": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:stone_tool_materials"
+          }
+        ]
+      }
+    }
+  }
+}

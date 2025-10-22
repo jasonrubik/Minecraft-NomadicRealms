@@ -2,22 +2,21 @@
   "parent": "nomadicrealms:nomadic/first_punch",
   "display": {
     "icon": {
-      "id": "minecraft:stone_axe"
+      "id": "minecraft:ender_chest"
     },
-    "title": "Primitive Ingenuity",
-    "description": "You crafted your first flint axe!",
+    "title": "Cloud Storage",
+    "description": "The nimble nomad carries only the lightest of gear.",
+	"frame": "goal",
     "announce_to_chat": false,
     "show_toast": true
   },
   "criteria": {
-    "crafted_flint_axe": {
+    "crafted_ender_chest": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "items": [
-              "minecraft:stone_axe"
-            ]
+            "items": "minecraft:ender_chest"
           }
         ]
       }

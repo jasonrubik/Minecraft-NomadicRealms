@@ -1,22 +1,22 @@
 {
-  "parent": "nomadicrealms:nomadic/first_punch",
+  "parent": "nomadicrealms:nomadic/flint_axe",
   "display": {
     "icon": {
-      "id": "minecraft:stone_axe"
+      "id": "minecraft:campfire"
     },
-    "title": "Primitive Ingenuity",
-    "description": "You crafted your first flint axe!",
+    "title": "Harness Fire",
+    "description": "Charcoal comes from many places; even clay or mud.",
     "announce_to_chat": false,
     "show_toast": true
   },
   "criteria": {
-    "crafted_flint_axe": {
+    "crafted_campfire": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": [
-              "minecraft:stone_axe"
+              "minecraft:campfire"
             ]
           }
         ]

@@ -1,0 +1,24 @@
+{
+  "parent": "nomadicrealms:nomadic/stone_collector",
+  "display": {
+    "icon": {
+      "id": "minecraft:iron_ore"
+    },
+    "title": "Iron Miner",
+    "description": "Good luck smelting that! Save some for the rest of us.",
+    "announce_to_chat": false,
+    "show_toast": true
+  },
+  "criteria": {
+    "mined_iron_ore": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:iron_ores"
+          }
+        ]
+      }
+    }
+  }
+}

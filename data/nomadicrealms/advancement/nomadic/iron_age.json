@@ -1,0 +1,21 @@
+{
+  "parent": "nomadicrealms:nomadic/iron_miner",
+  "display": {
+    "icon": {
+      "id": "minecraft:furnace"
+    },
+    "title": "Iron Age",
+    "description": "Smelting Iron is the first step to freedom",
+    "frame": "goal",
+    "announce_to_chat": false,
+    "show_toast": true
+  },
+  "criteria": {
+    "smelt_iron": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "minecraft:iron_ingot_from_smelting_iron_ore"
+      }
+    }
+  }
+}

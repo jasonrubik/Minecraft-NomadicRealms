@@ -1,22 +1,22 @@
 {
-  "parent": "nomadicrealms:nomadic/first_punch",
   "display": {
     "icon": {
-      "id": "minecraft:stone_axe"
+      "id": "minecraft:iron_ingot"
     },
-    "title": "Primitive Ingenuity",
-    "description": "You crafted your first flint axe!",
+    "title": "Iron Looter",
+    "description": "A new tool is in your future, use it wisely.",
     "announce_to_chat": false,
     "show_toast": true
   },
   "criteria": {
-    "crafted_flint_axe": {
+    "looted_iron": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": [
-              "minecraft:stone_axe"
+              "minecraft:iron_nugget",
+              "minecraft:iron_ingot"
             ]
           }
         ]

@@ -1,0 +1,28 @@
+{
+  "parent": "nomadicrealms:nomadic/hoarders_delight",
+  "display": {
+    "icon": {
+      "id": "minecraft:barrier"
+    },
+    "title": "Game Over",
+    "description": "Infinite chests for infinite storage. Bye bye nomad :(",
+    "frame": "goal",
+    "announce_to_chat": false,
+    "show_toast": true,
+    "hidden": true
+  },
+  "criteria": {
+    "mined_chest": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:chest"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
