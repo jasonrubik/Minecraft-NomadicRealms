@@ -14,7 +14,7 @@
     "smelt_iron": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
-        "recipe_id": "minecraft:iron_ingot_from_smelting_iron_ore"
+        "recipe_id": "minecraft:iron_ingot_from_smelting_raw_iron"
       }
     }
   }
