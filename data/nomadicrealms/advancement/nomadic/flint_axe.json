@@ -1,0 +1,26 @@
+{
+  "parent": "nomadicrealms:nomadic/first_punch",
+  "display": {
+    "icon": {
+      "id": "minecraft:stone_axe"
+    },
+    "title": "Stone Age Ingenuity",
+    "description": "You crafted your first flint axe!",
+    "announce_to_chat": false,
+    "show_toast": true
+  },
+  "criteria": {
+    "crafted_flint_axe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:stone_axe"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

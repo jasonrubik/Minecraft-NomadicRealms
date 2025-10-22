@@ -1,6 +1,6 @@
 {
     "values": [
-		"nomadicrealms:forcesurvival",
+		"nomadicrealms:load",
 		"dynamicrespawn:load"
     ]
 }

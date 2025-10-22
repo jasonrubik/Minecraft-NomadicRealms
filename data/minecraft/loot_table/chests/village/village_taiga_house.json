@@ -132,22 +132,6 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:spruce_sign"
-        },
-        {
-          "type": "minecraft:item",
-          "functions": [
-            {
-              "add": false,
-              "count": {
-                "type": "minecraft:uniform",
-                "max": 5.0,
-                "min": 1.0
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
-          "name": "minecraft:spruce_log",
-          "weight": 10
         }
       ],
       "rolls": {

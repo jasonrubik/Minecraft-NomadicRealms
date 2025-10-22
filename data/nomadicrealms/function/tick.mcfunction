@@ -1,0 +1,2 @@
+function nomadicrealms:check_first_punch
+function nomadicrealms:force_survival

@@ -30,11 +30,6 @@
           "weight": 10
         },
         {
-          "type": "minecraft:item",
-          "name": "minecraft:iron_pickaxe",
-          "weight": 3
-        },
-        {
           "type": "minecraft:empty",
           "weight": 5
         }
