@@ -1,17 +1,13 @@
 {
 	"pack": {
-		"pack_format": 71,
-		"supported_formats": {
-			"min_inclusive": 71,
-			"max_inclusive": 88
-		},
+		"pack_format": 94,
 		"description": [
 			{
-				"text": "Nomadic Realms Datapack. Makes the early game harder, and encourages exploration. Version 23",
+				"text": "Nomadic Realms Datapack. Makes the early game harder, and encourages exploration. Version 24",
 				"color": "dark_aqua"
 			}
 		],
-		"min_format": 71,
-		"max_format": 88
+		"min_format": 94,
+		"max_format": 94
 	}
 }
